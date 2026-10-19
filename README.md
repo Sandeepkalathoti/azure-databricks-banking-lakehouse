@@ -1,3 +1,7 @@
+## Architecture Diagram
+
+![Banking Data Lakehouse Medallion Architecture]([medallion_architecture.png)
+(https://github.com/Sandeepkalathoti/azure-databricks-banking-lakehouse/blob/main/medallion_architecture.png)
 # Banking Data Lakehouse using PySpark and Azure Databricks
 
 ## Project Overview
